@@ -30,7 +30,7 @@ __Pathway Worldwide__, Sao Paulo, Brazil
 
 ## Related Experience
 
-### Data Visualization Specialist 4
+## Data Visualization Specialist 4
 
 `January 2023 - current`
 __Brigham Young University Idaho__, Rexburg, ID
@@ -41,7 +41,7 @@ __Brigham Young University Idaho__, Rexburg, ID
 - Provided tools for several teams within the organization to identify data integrity issues, track performance and interactions.
 - Tools Used: Power BI, Power Query, Excel, Microsoft Forms, Microsoft Flow, Microsoft Report Builder, Microsoft Planner and Microsoft SharePoint.
 
-### Data Visualization Specialist 2
+## Data Visualization Specialist 2
 
 `October 2020 - September 2022`
 __Brigham Young University Idaho__, Rexburg, ID
