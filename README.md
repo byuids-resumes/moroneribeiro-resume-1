@@ -52,7 +52,7 @@ __Brigham Young University Idaho__, Rexburg, ID
 - Tools Used: Power BI, Power Query, Excel, Microsoft Forms, Microsoft Flow, Microsoft Report Builder, Microsoft Planner and Microsoft SharePoint.
 
 
-### IT Engineer Intern
+## IT Engineer Intern
 
 `August 2022 - December 2023`
 __The Church of Jesus Christ of Latter-day Saints__, Riverton, UT
@@ -61,7 +61,7 @@ __The Church of Jesus Christ of Latter-day Saints__, Riverton, UT
 - Worked with internal and external specialists, vendors and stakeholders worldwide.
 - Tools Used: Cisco – Meraki, SolarWinds, Splunk, Nagios, AppDynamics, ServiceNow.
 
-### Student Custodial Coordinator
+## Student Custodial Coordinator
 
 `November 2019 - October 2022`
 __Brigham Young University Idaho__, Rexburg, ID
@@ -70,7 +70,7 @@ __Brigham Young University Idaho__, Rexburg, ID
 - Led a team of six part-time employees. 
 - Tools Used: Excel, Inventory management system, Building Scheduler, Planner, Workday.
 
-### IT Analyst
+## IT Analyst
 
 `January 2012 - April 2018`
 __Sonda IT__, Sao Paulo, Brazil
